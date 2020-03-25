@@ -11,3 +11,8 @@ Course sections
 2) Branches
 3) Forks and Pull request
 4) Issues.
+
+*GIT 
+5)Intro to cmd line
+6)Cloning repo and Push/Pull
+7)Git init and Git add 
