@@ -5,6 +5,7 @@ this is the github material
 where here git and github  practices goes on.
 lets go through the course.
 
+Try out branch pull request and merge.
 
 Course sections
 
@@ -18,3 +19,6 @@ Course sections
 5)Intro to cmd line
 6)Cloning repo and Push/Pull
 7)Git init and Git add 
+
+
+this gonna be a new brach added to it.
